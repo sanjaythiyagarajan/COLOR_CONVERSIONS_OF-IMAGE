@@ -65,7 +65,9 @@ Split and Merge RGB Image
 Split and merge HSV Image
 
  python
+ 
 Developed By: SANJAY T
+
 Register Number: 212222110039
 
 
